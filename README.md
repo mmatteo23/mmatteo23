@@ -36,7 +36,7 @@
       <a href="https://www.linkedin.com/in/matteo-midena-953417233/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="matteo" height="30"/></a>
-      <a href="https://twitter.com/mmatteo23" target="blank"><img align="center"
+      <a href="https://twitter.com/mmidena23" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
