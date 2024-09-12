@@ -11,7 +11,7 @@
  <a href="https://warpcast.com/itsmide.eth" target="_blank">
 <img src="https://img.shields.io/badge/farcaster-%23855DCD?style=for-the-badge&logo=farcaster&logoColor=white" alt="Matteo Midena Farcaster" />
  </a>
-<a href="https://warpcast.com/itsmide.eth" target="_blank">
+<a href="https://www.linkedin.com/in/matteomidena" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Matteo Midena Linkedin" />
  </a>
 </p>
