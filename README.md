@@ -29,8 +29,8 @@ i care a lot about shipping fast, talking to users, and turning messy ideas into
 ## now
 
 - [**cato**](https://get-cato.com) — *product / fullstack eng* · 2026–present
-  - building [ratel](https://ratel.sh), an in-process context-engineering engine for ai agents — *"right context, not all context"*
-  - rust core with typescript and python sdks; resolves only the tools that matter per turn instead of stuffing the whole catalog into context
+  - building an ai platform for italian public tenders (gare d'appalto) — *"focus on winning offers, not paperwork"*
+  - full-stack across a python backend, react frontend, supabase, and agentic ai flows: intelligent tender search, requirement extraction, and auto-drafting of bid documents
 
 ## previously
 
