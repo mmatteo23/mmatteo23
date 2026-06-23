@@ -16,16 +16,6 @@ i like working on things that are technically deep but still need strong product
 
 i care a lot about shipping fast, talking to users, and turning messy ideas into clear experiences.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/rust-000000?style=flat-square&logo=rust&logoColor=white" alt="rust" />
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="typescript" />
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="next.js" />
-  <img src="https://img.shields.io/badge/solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="solidity" />
-  <img src="https://img.shields.io/badge/postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="postgres" />
-</p>
-
 ## now
 
 - [**cato**](https://get-cato.com) — *product / fullstack eng* · 2026–present
