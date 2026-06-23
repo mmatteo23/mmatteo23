@@ -1,4 +1,4 @@
-<h1 align="center">henlo, matteo here 🛠️</h1>
+<h1 align="center">hey, matteo here 🫪</h1>
 
 <p align="center">
   <i>fullstack engineer who ships fast and builds with ai in the loop</i>
